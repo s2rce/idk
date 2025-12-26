@@ -40,5 +40,5 @@ local names = {
     "Warm_Vibes",
     "ChickenBagelz",
     "neddleduck",
-    "s2rce
+    "s2rce",
 }
